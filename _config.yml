@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-5373-0328"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : https://www.researchgate.net/profile/Liang-Chen-101
+  researchgate     : "https://www.researchgate.net/profile/Liang-Chen-101"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
