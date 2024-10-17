@@ -4,18 +4,23 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2024
+Chenfei Li, Min Tang and **Liang Chen**, "Transient Thermal Analysis of Chiplet-Based Systems with Dual-Channel Message Passing Neural Networks," **_Proc. Int. Appl. Comput. Electromagn. Soc. (ACES-China) Symp._**, Xi'an, China, 2024, pp. 1-3.
+Zijian Zhou, Min Tang and **Liang Chen**, "TAC-UNet: A Partially Dense UNet for Thermal Analysis of Chiplet-Based System," **_Proc. Int. Appl. Comput. Electromagn. Soc. (ACES-China) Symp._**, Xi'an, China, 2024, pp. 1-2.
+"Rectangular Approximation for Curved-Shape Power Density in Chip Thermal Analysis," 2024 2nd International Symposium of Electronics Design Automation (ISEDA), Xi'an, China, 2024, pp. 632-636.
+"A Stepwise Integration Separation of Variables Solver for Full-Chip Thermal Uncertainty Analysis," in IEEE Transactions on Components, Packaging and Manufacturing Technology, vol. 14, no. 4, pp. 630-640, April 2024.
 
 ## 2023
 ------
-[C16] **Liang Chen**, Jincong Lu, Wentian Jin and Sheldon Tan, “Fast Full-Chip Parametric Thermal Analysis Based on Enhanced Physics Enforced Neural Networks,” **_Proc. IEEE/ACM Int. Conf. Comput. Aided Design (ICCAD)_**, San Francisco, CA, USA, 2023, pp. 1-8. (Accepted)
+[C16] **Liang Chen**, Jincong Lu, Wentian Jin and Sheldon Tan, “Fast Full-Chip Parametric Thermal Analysis Based on Enhanced Physics Enforced Neural Networks,” **_Proc. IEEE/ACM Int. Conf. Comput. Aided Design (ICCAD)_**, San Francisco, CA, USA, 2023, pp. 1-8.
 
-[C15] Subed Lamichhane, Wentian Jin, **Liang Chen**, Mohammadamir Kavousi and Sheldon Tan, “PostPINN-EM: Fast Post-Voiding Electromigration Analysis Using Two-Stage Physics-Informed Neural Networks,” **_Proc. IEEE/ACM Int. Conf. Comput. Aided Design (ICCAD)_**, San Francisco, CA, USA, 2023, pp. 1-8. (Accepted)
+[C15] Subed Lamichhane, Wentian Jin, **Liang Chen**, Mohammadamir Kavousi and Sheldon Tan, “PostPINN-EM: Fast Post-Voiding Electromigration Analysis Using Two-Stage Physics-Informed Neural Networks,” **_Proc. IEEE/ACM Int. Conf. Comput. Aided Design (ICCAD)_**, San Francisco, CA, USA, 2023, pp. 1-8.
 
-[C14] **Liang Chen**, Min Tang and Jianhua Zhang, “Dynamic Electro-Thermo-Migration Coupling Analysis of RDL Structure for 2.5D Integration,” **_Proc. Int. Appl. Comput. Electromagn. Soc. (ACES-China) Symp._**, 2023. (Accepted)
+[C14] **Liang Chen**, Min Tang and Jianhua Zhang, “Dynamic Electro-Thermo-Migration Coupling Analysis of RDL Structure for 2.5D Integration,” **_Proc. Int. Appl. Comput. Electromagn. Soc. (ACES-China) Symp._**, Hangzhou, China, 2023, pp. 01-03.
 
-[J11] **Liang Chen**, Wentian Jin, Mohammadamir Kavousi, Subed Lamichhane and Sheldon X.-D. Tan, “Linear Time Electromigration Analysis based on Physics-informed Sparse Regression,” **_IEEE Trans. Comput.-Aided Design Integr. Circuits Syst._**, 2023. (Early Access)
+[J11] **Liang Chen**, Wentian Jin, Mohammadamir Kavousi, Subed Lamichhane and Sheldon X.-D. Tan, “Linear Time Electromigration Analysis based on Physics-informed Sparse Regression,” **_IEEE Trans. Comput.-Aided Design Integr. Circuits Syst._**, vol. 42, no. 11, pp. 4126-4138, Nov. 2023.
 
-[J10] **Liang Chen**, Wentian Jin, Jinwei Zhang and Sheldon X.-D. Tan, “Thermoelectric Cooler Modeling and Optimization Via Surrogate Modeling Using Implicit Physics-Constrained Neural Networks,” **_IEEE Trans. Comput.-Aided Design Integr. Circuits Syst._**, 2023. (Early Access)
+[J10] **Liang Chen**, Wentian Jin, Jinwei Zhang and Sheldon X.-D. Tan, “Thermoelectric Cooler Modeling and Optimization Via Surrogate Modeling Using Implicit Physics-Constrained Neural Networks,” **_IEEE Trans. Comput.-Aided Design Integr. Circuits Syst._**, vol. 42, no. 11, pp. 4090-4101, Nov. 2023.
 
 [J9] Jinwei Zhang, Sheriff Sadiqbatcha, **Liang Chen**, Cuong Thi, Sachin Sachdeva, Hussam Amrouch, Sheldon X.-D. Tan, “Hot-spot aware thermoelectric array based cooling for multicore processors,” **_Integration_**, vol. 89, pp.73-82, Mar. 2023.
 
