@@ -9,7 +9,7 @@ redirect_from:
 
 Liang Chen (Member, IEEE)  received the B.E. degree in electromagnetic field and wireless technology from Northwestern Polytechnical University, Xi’an, China, in 2015 and the Ph.D. degree in electronic science and technology from Shanghai Jiao Tong University, Shanghai, China, in 2020.
 
-From 2020 to 2022, he was a Postdoctoral Researcher with the VLSI System and Computation Laboratory, Department of Electrical and Computer Engineering, University of California at Riverside, Riverside, CA, USA. Since 2023, he has been an Associate Professor with the School of Microelectronics, Shanghai University, Shanghai, China. Please see Chinese version of my CV with the <a href='https://sme.shu.edu.cn/info/1028/2891.htm'> website link</a>.
+From 2020 to 2022, he was a Postdoctoral Researcher with the VLSI System and Computation Laboratory, Department of Electrical and Computer Engineering, University of California at Riverside, Riverside, CA, USA. Since 2023, he has been an Associate Professor with the <a href=' '>School of Microelectronics</a>, Shanghai University, Shanghai, China. Please see Chinese version of my CV with the <a href='https://sme.shu.edu.cn/info/1028/2891.htm'> website link</a>.
 
 I mainly focus on solving the partial differential equations (PDEs) describing multiphysics (electromagnetic, electrical, thermal fields and electromigration) in integrated circuits. Specific topics include:
 * Machine learning-based methods in Multiphysics applications
