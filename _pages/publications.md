@@ -7,14 +7,19 @@ author_profile: true
 ## 2024
 ------
 [C21]Chenfei Li, Min Tang and **Liang Chen**, "Transient Thermal Analysis of Chiplet-Based Systems with Dual-Channel Message Passing Neural Networks," **_Proc. Int. Appl. Comput. Electromagn. Soc. (ACES-China) Symp._**, Xi'an, China, 2024, pp. 1-3.
+
 [C20]Zijian Zhou, Min Tang and **Liang Chen**, "TAC-UNet: A Partially Dense UNet for Thermal Analysis of Chiplet-Based System," **_Proc. Int. Appl. Comput. Electromagn. Soc. (ACES-China) Symp._**, Xi'an, China, 2024, pp. 1-2.
-[C19]Ao Wang, Luqiao Yin, Wenxing Zhu, Aiying Guo, Jingjing Liu, Min Tang, **Liang Chen** and Jianhua Zhang, "Rectangular Approximation for Curved-Shape Power Density in Chip Thermal Analysis," 2024 2nd International Symposium of Electronics Design Automation (ISEDA), Xi'an, China, 2024, pp. 632-636.
-[J12]Luqiao Yin, Ao Wang, Wenxing Zhu, Aiying Guo, Jingjing Liu, Min Tang, **Liang Chen** and Jianhua Zhang, "A Stepwise Integration Separation of Variables Solver for Full-Chip Thermal Uncertainty Analysis," **_IEEE Transactions on Components, Packaging and Manufacturing Technology_**, vol. 14, no. 4, pp. 630-640, April 2024.
+
+[C19]Ao Wang, Luqiao Yin, Wenxing Zhu, Aiying Guo, Jingjing Liu, Min Tang, **Liang Chen** and Jianhua Zhang, "Rectangular Approximation for Curved-Shape Power Density in Chip Thermal Analysis," **_Proc. Int. Symp. Electron. Design Autom. (ISEDA)_**, Xi'an, China, 2024, pp. 632-636.
+
+[J12]Luqiao Yin, Ao Wang, Wenxing Zhu, Aiying Guo, Jingjing Liu, Min Tang, **Liang Chen** and Jianhua Zhang, "A Stepwise Integration Separation of Variables Solver for Full-Chip Thermal Uncertainty Analysis," **_IEEE Trans. Compon. Packag. Manuf. Technol._**, vol. 14, no. 4, pp. 630-640, April 2024.
 
 ## 2023
 ------
 [C18]Jinwen Pan, Haojie Zhou, Xiaoxiao Ji, Liang Chen, Luqiao Yin and Jianhua Zhang, “Transient Thermodynamic Simulation of Micro LED Array Bonding,” **_Proc. 20th China Int. Forum Solid State Lighting 9th Int. Forum Wide Bandgap Semicond. (SSLCHINA: IFWS)_**, Xiamen, China, 2023, pp. 357-360.
+
 [C17]Zhu Yang, Hao Fu, Kefeng Wang, Xiaoxiao Ji, **Liang Chen**, Luqiao Yin, Xiuzhen Lu and Jianhua Zhang, “Simulation Study on Electrothermal and Mechanical Coupling of Bumps in 5×5 Micro-LED Array,” **_Proc. 20th China Int. Forum Solid State Lighting 9th Int. Forum Wide Bandgap Semicond. (SSLCHINA: IFWS)_**, Xiamen, China, 2023, pp. 333-337.
+
 [C16] **Liang Chen**, Jincong Lu, Wentian Jin and Sheldon Tan, “Fast Full-Chip Parametric Thermal Analysis Based on Enhanced Physics Enforced Neural Networks,” **_Proc. IEEE/ACM Int. Conf. Comput. Aided Design (ICCAD)_**, San Francisco, CA, USA, 2023, pp. 1-8.
 
 [C15] Subed Lamichhane, Wentian Jin, **Liang Chen**, Mohammadamir Kavousi and Sheldon Tan, “PostPINN-EM: Fast Post-Voiding Electromigration Analysis Using Two-Stage Physics-Informed Neural Networks,” **_Proc. IEEE/ACM Int. Conf. Comput. Aided Design (ICCAD)_**, San Francisco, CA, USA, 2023, pp. 1-8.
