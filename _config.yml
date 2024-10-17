@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
   location         : "Shanghai, China"
-  employer         : "<a href='https://www.shu.edu.cn/'>Shanghai University</a>"
+  employer         : "Shanghai University"
+  uri              : "https://www.shu.edu.cn/"
   email            : "lchenshu@shu.edu.cn" 
 
   # Academic websites
