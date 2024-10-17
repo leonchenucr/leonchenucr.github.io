@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Liang Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Associate Professor at <a href='https://www.shu.edu.cn/'>Shanghai University</a>"
+  location         : "Shanghai, China"
+  employer         : "Shanghai University"
+  uri              : https://www.shu.edu.cn/
+  email            : "lchenshu@shu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
