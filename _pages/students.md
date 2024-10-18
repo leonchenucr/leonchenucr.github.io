@@ -15,12 +15,9 @@ Graduate Students
 Liancheng Huang|Junhan Huang|Xinyu Li|
 
 
-
-Kaibin Wu
-
-Ao Song
-
-Chenfeng Ye
+<img align="middle" src="/images/kbwu.jpg" alt="first stage" width=250 height=250/> |<img align="middle" src="/images/asong.jpg" alt="first stage" width=250 height=250/> |<img align="middle" src="/images/cfye.jpg" alt="first stage" width=250 height=250/>|
+:-----:|:-----:|:-----:|
+Kaibin Wu|Ao Song|Chenfeng Ye|
 
 ## 2023
 
