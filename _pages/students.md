@@ -16,11 +16,11 @@ Junhan Huang
 
 Xinyu Li
 
-Kaibing Wu
+Kaibin Wu
 
 Ao Song
 
-Chengfeng Ye
+Chenfeng Ye
 
 ## 2023
 
