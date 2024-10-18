@@ -27,9 +27,9 @@ Ao Sheng|Yusong Lu
 
 ## 2022
 
-<img align="middle" src="/images/awang.jpg" alt="first stage" width=200 height=200/> ||
-:-----:||
-Ao Wang||
+<img align="middle" src="/images/awang.jpg" alt="first stage" width=200 height=200/> | |
+:-----:| |
+Ao Wang| |
 
 Undergraduate Students
 ======
