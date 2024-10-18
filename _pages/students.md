@@ -21,8 +21,8 @@ Kaibin Wu|Ao Song|Chenfeng Ye|
 
 ## 2023
 <img align="middle" src="/images/ashen.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/yslu.jpg" alt="first stage" width=200 height=200/> |
-:-----:|:-----:|
-Ao Sheng|Yusong Lu|
+:-----:|:-----:
+Ao Sheng|Yusong Lu
 
 ## 2022
 <img align="middle" src="/images/awang.jpg" alt="first stage" width=200 height=200/> |
