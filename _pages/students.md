@@ -27,9 +27,9 @@ Ao Sheng|Yusong Lu
 
 ## 2022
 
-<img align="middle" src="/images/awang.jpg" alt="first stage" width=200 height=200/> | |
-:-----:| |
-Ao Wang| |
+<img align="middle" src="/images/awang.jpg" alt="first stage" width=200 height=200/> | 
+:-----:| 
+Ao Wang| 
 
 Undergraduate Students
 ======
@@ -43,13 +43,12 @@ Yuanxiao He|
 
 ## 2023
 
-Haohan Chen
+<img align="middle" src="/images/hhchen.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/yjtang.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/>|<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/>|
+:-----:|:-----:|:-----:|:-----:
+Haohan Chen|Yujie Tang|Rui Tan|Yuhao Pan
 
-Yujie Tang
 
-Rui Tan
 
-Yuhao Pan
 
 Kuoyuan Jia
 
