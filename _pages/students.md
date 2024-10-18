@@ -10,6 +10,9 @@ Graduate Students
 
 ## 2024
 
+<img align="middle" src="/images/500x300.png" alt="first stage"  height=250/> |
+:-----:|
+ThermPINN Framework|
 
 <br/><img src='/images/500x300.png'> <img src='/images/500x300.png'>
 <br/>Liancheng Huang &emsp &emsp &emsp Liancheng Huang
