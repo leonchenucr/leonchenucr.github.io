@@ -10,8 +10,10 @@ Graduate Students
 
 ## 2024
 
-Liancheng Huang
-<br/><img src='/images/500x300.png'> <img src='/images/500x300.png'> <br/><img src='/images/500x300.png'>
+
+<br/><img src='/images/500x300.png'> <img src='/images/500x300.png'>
+<br/>Liancheng Huang                               Liancheng Huang
+<br/><img src='/images/500x300.png'>
 
 Junhan Huang
 
