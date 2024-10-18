@@ -42,7 +42,7 @@ Yuanxiao He|
 
 Kuoyuan Jia
 
-<img align="middle" src="/images/ybliu.jpg" alt="first stage" width=250 height=250/> |
+<img align="middle" src="/images/byliu.jpg" alt="first stage" width=250 height=250/> |
 :-----:|
 Yubiao Liu|
 
