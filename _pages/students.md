@@ -28,6 +28,9 @@ Ao Sheng
 
 Yusong Lu
 
+## 2022
+Ao Wang
+
 Undergraduate Students
 ======
 
