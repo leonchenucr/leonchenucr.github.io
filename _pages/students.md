@@ -43,7 +43,7 @@ Yuanxiao He|
 
 ## 2023
 
-<img align="middle" src="/images/hhchen.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/yjtang.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/>|<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/>|
+<img align="middle" src="/images/hhchen.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/yctang.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/>|<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/>|
 :-----:|:-----:|:-----:|:-----:
 Haohan Chen|Yujie Tang|Rui Tan|Yuhao Pan
 
