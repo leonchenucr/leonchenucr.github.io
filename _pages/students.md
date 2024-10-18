@@ -20,10 +20,9 @@ Liancheng Huang|Junhan Huang|Xinyu Li|
 Kaibin Wu|Ao Song|Chenfeng Ye|
 
 ## 2023
-
-Ao Sheng
-
-Yusong Lu
+<img align="middle" src="/images/ashen.jpg" alt="first stage" width=250 height=250/> |<img align="middle" src="/images/yslu.jpg" alt="first stage" width=250 height=250/> |
+:-----:|:-----:|
+Ao Sheng|Yusong Lu|
 
 ## 2022
 Ao Wang
