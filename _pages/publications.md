@@ -85,4 +85,3 @@ author_profile: true
 [C2] **Liang Chen**, Min Tang, Qiangqiang Feng and Junfa Mao, “Transient electromagnetic-thermal simulation of debye media using alternating-direction-implicit method,” **_Proc. 47th Eur. Microw. Conf. (EuMC)_**, Nuremberg, 2017, pp. 892-895.
 
 [C1] **Liang Chen**, Min Tang, Junfa Mao, Haikun Yue and Yang Tang, “Numerical calibration on complex propagation constants of grounded coplanar waveguides,” **_Proc. IEEE Electr. Design Adv. Packag. Syst. Symp. (EDAPS)_**, Haining, China, 2017, pp. 1-3.
-
