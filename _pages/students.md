@@ -43,7 +43,7 @@ Yuanxiao He|
 
 ## 2023
 
-<img align="middle" src="/images/hhchen.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/jctang.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/>|<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/>|
+<img align="middle" src="/images/hhchen.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/jctang.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/rtan.jpg" alt="first stage" width=200 height=200/>|<img align="middle" src="/images/yhpan.jpg" alt="first stage" width=200 height=200/>|
 :-----:|:-----:|:-----:|:-----:
 Haohan Chen|Chengjie Tang|Rui Tan|Yuhao Pan
 
@@ -57,7 +57,7 @@ Kuoyuan Jia|Yubiao Liu|Pengju Zhang
 Yifei Chen|Yucheng Liu|Yicheng Yang
 
 
-<img align="middle" src="/images/bwma.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/xxx.jpg" alt="first stage" width=200 height=200/> |
+<img align="middle" src="/images/bwma.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/rtan.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/xxx.jpg" alt="first stage" width=200 height=200/> |
 :-----:|:-----:|:-----:|
 Bowen Ma|Rui Tan|Yujie Huang
 
