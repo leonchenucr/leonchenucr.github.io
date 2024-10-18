@@ -47,23 +47,21 @@ Yuanxiao He|
 :-----:|:-----:|:-----:|:-----:
 Haohan Chen|Chengjie Tang|Rui Tan|Yuhao Pan
 
+<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/byliu.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/byliu.jpg" alt="first stage" width=200 height=200/> |
+:-----:|:-----:|:-----:|
+Kuoyuan Jia|Yubiao Liu|Pengju Zhang
+
+
+<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/ycliu.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/> |
+:-----:|:-----:|:-----:|
+Yifei Chen|Yucheng Liu|Yicheng Yang
+
+
+<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/xxx.jpg" alt="first stage" width=200 height=200/> |
+:-----:|:-----:|:-----:|
+Bowen Ma|Rui Tan|Yujie Huang
 
 
 
-Kuoyuan Jia
 
-<img align="middle" src="/images/byliu.jpg" alt="first stage" width=200 height=200/> |
-:-----:|
-Yubiao Liu|
 
-Pengju Zhang
-
-Yifei Chen
-
-Yucheng Liu
-
-Yicheng Yang
-
-Bowen Ma
-
-Yujie Huang
