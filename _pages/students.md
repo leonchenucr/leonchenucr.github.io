@@ -8,7 +8,7 @@ author_profile: true
 Graduate Students
 ======
 
-##2024
+## 2024
 
 Liancheng Huang
 
@@ -22,7 +22,7 @@ Ao Song
 
 Chengfeng Ye
 
-##2023
+## 2023
 
 Ao Sheng
 
@@ -31,11 +31,11 @@ Yusong Lu
 Undergraduate Students
 ======
 
-##2024
+## 2024
 
 Yuanxiao He
 
-##2023
+## 2023
 
 Kuoyuan Jia
 
