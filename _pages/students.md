@@ -10,7 +10,7 @@ Graduate Students
 
 ## 2024
 
-<img align="middle" src="/images/500x300.png" alt="first stage"  height=250/> |
+<img align="middle" src="/images/500x300.png" alt="first stage" width=250 height=250/> |
 :-----:|
 ThermPINN Framework|
 
