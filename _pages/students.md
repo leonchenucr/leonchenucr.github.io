@@ -25,20 +25,26 @@ Kaibin Wu|Ao Song|Chenfeng Ye|
 Ao Sheng|Yusong Lu|
 
 ## 2022
-Ao Wang
+<img align="middle" src="/images/awang.jpg" alt="first stage" width=250 height=250/> |
+:-----:|
+Ao Wang|
 
 Undergraduate Students
 ======
 
 ## 2024
+<img align="middle" src="/images/yxhe.jpg" alt="first stage" width=250 height=250/> |
+:-----:|
+Yuanxiao He|
 
-Yuanxiao He
 
 ## 2023
 
 Kuoyuan Jia
 
-Yubiao Liu
+<img align="middle" src="/images/ybliu.jpg" alt="first stage" width=250 height=250/> |
+:-----:|
+Yubiao Liu|
 
 Pengju Zhang
 
