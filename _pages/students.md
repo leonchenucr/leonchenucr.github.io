@@ -10,7 +10,7 @@ Graduate Students
 
 ## 2024
 
-<img align="middle" src="/images/lchuang.jpg" alt="first stage" width=250 height=250/> |<img align="middle" src="/images/jhhuang.jpg" alt="first stage" width=250 height=250/> |<img align="middle" src="/images/xyli.jpg" alt="first stage" width=250 height=250/>|
+<img align="middle" src="/images/lchuang.jpg" alt="first stage" width=250 height=250/> |<img align="middle" src="/images/jhhuang.jpg" alt="first stage" width=250 height=250/> |<img align="middle" src="/images/xinyuli.jpg" alt="first stage" width=250 height=250/>|
 :-----:|:-----:|:-----:|
 Liancheng Huang|Junhan Huang|Xinyu Li|
 
