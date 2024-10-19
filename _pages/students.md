@@ -57,9 +57,9 @@ Kuoyuan Jia|Yubiao Liu|Pengju Zhang
 Yifei Chen|Yucheng Liu|Yicheng Yang
 
 
-<img align="middle" src="/images/bwma.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/rtan.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/xxx.jpg" alt="first stage" width=200 height=200/> |
-:-----:|:-----:|:-----:|
-Bowen Ma|Rui Tan|Yujie Huang
+<img align="middle" src="/images/bwma.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/rtan.jpg" alt="first stage" width=200 height=200/> 
+:-----:|:-----:
+Bowen Ma|Rui Tan
 
 
 
