@@ -47,7 +47,7 @@ Yuanxiao He|
 :-----:|:-----:|:-----:|:-----:
 Haohan Chen|Chengjie Tang|Rui Tan|Yuhao Pan
 
-<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/byliu.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/> |
+<img align="middle" src="/images/xxxx.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/byliu.jpg" alt="first stage" width=200 height=200/> |<img align="middle" src="/images/pjzhang.jpg" alt="first stage" width=200 height=200/> |
 :-----:|:-----:|:-----:|
 Kuoyuan Jia|Yubiao Liu|Pengju Zhang
 
