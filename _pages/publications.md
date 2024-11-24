@@ -6,6 +6,12 @@ author_profile: true
 ---
 ## 2024
 ------
+[J14]**Liang Chen**, Wenxing Zhu, Min Tang, Sheldon X.-D. Tan, Junfa Mao and Jianhua Zhang, "PISOV: Physics-informed Separation of Variables Solvers for Full-Chip Thermal Analysis," **_IEEE Trans. Comput.-Aided Design Integr. Circuits Syst._**, 2024. 
+
+[J13]Hongxi Wu, Xingquan Li, **Liang Chen**, Bei Yu and Wenxing Zhu, "Delay-Driven Rectilinear Steiner Tree Construction," **_IEEE Trans. Comput.-Aided Design Integr. Circuits Syst._**, 2024. 
+
+[C22]Shunxiang Lan, Min Tang, **Liang Chen** and Junfa Mao, “Thermal Resistance Network Derivative (TREND) Model for Efficient Thermal Simulation and Design of ICs and Packages,” **_Proc. 61st ACM/IEEE Design Autom. Conf. (DAC)_**, San Francisco, CA, USA, 2024, pp. 1-6.
+
 [C21]Chenfei Li, Min Tang and **Liang Chen**, "Transient Thermal Analysis of Chiplet-Based Systems with Dual-Channel Message Passing Neural Networks," **_Proc. Int. Appl. Comput. Electromagn. Soc. (ACES-China) Symp._**, Xi'an, China, 2024, pp. 1-3.
 
 [C20]Zijian Zhou, Min Tang and **Liang Chen**, "TAC-UNet: A Partially Dense UNet for Thermal Analysis of Chiplet-Based System," **_Proc. Int. Appl. Comput. Electromagn. Soc. (ACES-China) Symp._**, Xi'an, China, 2024, pp. 1-2.
