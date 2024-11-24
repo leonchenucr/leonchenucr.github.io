@@ -10,7 +10,7 @@ author_profile: true
 
 [J13]Hongxi Wu, Xingquan Li, **Liang Chen**, Bei Yu and Wenxing Zhu, "Delay-Driven Rectilinear Steiner Tree Construction," **_IEEE Trans. Comput.-Aided Design Integr. Circuits Syst._**, 2024. 
 
-[C22]Shunxiang Lan, Min Tang, **Liang Chen** and Junfa Mao, “Thermal Resistance Network Derivative (TREND) Model for Efficient Thermal Simulation and Design of ICs and Packages,” **_Proc. 61st ACM/IEEE Design Autom. Conf. (DAC)_**, San Francisco, CA, USA, 2024, pp. 1-6.
+[C22]Shunxiang Lan, Min Tang, **Liang Chen** and Junfa Mao, "Thermal Resistance Network Derivative (TREND) Model for Efficient Thermal Simulation and Design of ICs and Packages," **_Proc. 61st ACM/IEEE Design Autom. Conf. (DAC)_**, San Francisco, CA, USA, 2024, pp. 1-6.
 
 [C21]Chenfei Li, Min Tang and **Liang Chen**, "Transient Thermal Analysis of Chiplet-Based Systems with Dual-Channel Message Passing Neural Networks," **_Proc. Int. Appl. Comput. Electromagn. Soc. (ACES-China) Symp._**, Xi'an, China, 2024, pp. 1-3.
 
