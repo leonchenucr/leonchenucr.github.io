@@ -9,11 +9,11 @@ author_profile: true
 ------
 [C23] Zijian Zhou, Min Tang and **Liang Chen**, "ASRR-PINN: Adaptive Sub-Regional Random Resampling-Based PINN for Thermal Analysis of 3D-ICs," **_Proc. 62st ACM/IEEE Design Autom. Conf. (DAC)_**, San Francisco, CA, USA, 2025, pp. 1-6.
 
-[J18] Li Huang, **Liang Chen** and Rongchuan Bai, "Physics-Informed Extreme Learning Machine Applied for Eigenmode Analysis of Waveguides and Transmission Lines", **Int. J. Rf. Microw. C. E.**, vol. 2025, no. 1, pp. 6233356, 2025.
+[J18] Li Huang, **Liang Chen** and Rongchuan Bai, "Physics-Informed Extreme Learning Machine Applied for Eigenmode Analysis of Waveguides and Transmission Lines", **_Int. J. Rf. Microw. C. E._**, vol. 2025, no. 1, pp. 6233356, 2025.
 
 [J17] Pengju Zhang, Kuoyuan Jia, Yubiao Liu, Chenfeng Ye, Junhan Huang, Wenxing Zhu, Li Huang, Min Tang, **Liang Chen** and Jianhua Zhang, "An Analytical 3D-IC Thermal Simulation Framework Using Adaptive Rectangular Approximation and Conformal Mesh Method," **_IEEE Trans. Very Large Scale Integr. (VLSI) Syst._**, 2025.
 
-[J16] Shuai Zhu, Maoliang Jian, Xiaoni Yang, **Liang Chen**, Li Deng and Lianqiao Yang, "Life Prediction of IGBT Across Working Condition via a CNN-Transformer Network," **IEEE Trans. Device Mater. Rel.**, vol. 25, no. 2, pp. 195-202, June 2025.
+[J16] Shuai Zhu, Maoliang Jian, Xiaoni Yang, **Liang Chen**, Li Deng and Lianqiao Yang, "Life Prediction of IGBT Across Working Condition via a CNN-Transformer Network," **_IEEE Trans. Device Mater. Rel._**, vol. 25, no. 2, pp. 195-202, June 2025.
 
 [J15] Longfei Li, Min Tang and **Liang Chen**, "Efficient Simulation and Design of Thermoelectric Cooler for Thermal Management Using Equivalent Thermal Resistance Model," **_IEEE Trans. Compon. Packag. Manuf. Technol._**, vol. 15, no. 7, pp. 1425-1431, July 2025.
 
