@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2025
 ------
-[C23] Zijian Zhou, Min Tang and **Liang Chen**, "ASRR-PINN: Adaptive Sub-Regional Random Resampling-Based PINN for Thermal Analysis of 3D-ICs," **_Proc. 62st ACM/IEEE Design Autom. Conf. (DAC)_**, San Francisco, CA, USA, 2025, pp. 1-6.
+[C23] Zijian Zhou, Min Tang and **Liang Chen**, "ASRR-PINN: Adaptive Sub-Regional Random Resampling-Based PINN for Thermal Analysis of 3D-ICs," **_Proc. 62nd ACM/IEEE Design Autom. Conf. (DAC)_**, San Francisco, CA, USA, 2025, pp. 1-6.
 
 [J18] Li Huang, **Liang Chen** and Rongchuan Bai, "Physics-Informed Extreme Learning Machine Applied for Eigenmode Analysis of Waveguides and Transmission Lines", **_Int. J. Rf. Microw. C. E._**, vol. 2025, no. 1, pp. 6233356, 2025.
 
